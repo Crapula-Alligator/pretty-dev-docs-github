@@ -1,7 +1,7 @@
 Pretty Developer Docs for GitHub (PDDG)
 =======================================
 
-*Pretty Developer Docs for GitHub (PDDG): Pretty Developer Docs for GitHub (PDDG): Easy builder develop documentation, user manuals & beautiful website using GitHub pages*
+*Pretty Developer Docs for GitHub (PDDG): Pretty Developer Docs for GitHub (PDDG): Easy builder of developer documentation, user manuals & beautiful website using GitHub pages*
 
 +----------------+--------------------------------------------------------+
 |Project site    | https://github.com/cr0hn/pretty-dev-docs-github        |
@@ -16,10 +16,7 @@ Pretty Developer Docs for GitHub (PDDG)
 What's PDDG?
 ============
 
-**PDDG** allow you to perform hacking testing without raise alerts at IDS mechanism.
-
-What problem solve IdsFree?
-===========================
+**PDDG** allows you to easily generate developer documentation for your project.
 
 It's based on template on `Pretty Docs Template <https://themes.3rdwavemedia.com/demo/prettydocs/>`_.
 
